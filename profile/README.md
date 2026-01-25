@@ -1,11 +1,11 @@
-なるちゃん(naruchan) from なるこStudio(naruko studio)  
+<img width="1392" height="912" alt="image" src="https://github.com/user-attachments/assets/96e5caad-369f-4400-8e6a-f6cee9797c12" />なるちゃん(naruchan) from なるこStudio(naruko studio)  
 よろしくお願いします
 
 ## Hi there 👋
 
 Current WIP:
 - [Discord-Types](https://github.com/naruko-studio/discord-types): A discord bot framework written in typescript with c12 configuration helper, dotenvx environment vault, radix3 for auto registration command and event to bot instance, ofetch to registration application command to discord.
-- [Bento](https://github.com/bento-js): A full stack framework with c12 configuration helper, dotenvx environment vault, radix3 for auto registration site and api path, bun server, vue and react as frontend.
+- [teishoku](https://github.com/teishoku/teishoku): A full stack framework with c12 configuration helper, dotenvx environment vault, radix3 for auto registration site and api path, bun server, vue and react as frontend.
 - [Caddy-Helper](https://github.com/naruko-studio/caddy-helper): A tool inspired by nginx-proxy-manager, use to set caddy as reverse proxy conveniently.
 - Hyper-EL(Current in local only): A hypervisor platform like proxmox ve, but is based on enterprise linux based system, and add freeipa as sso to manage Caddy-Helper(as plugin) and OpenWRT(as plugin).
 
