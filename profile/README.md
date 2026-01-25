@@ -1,4 +1,4 @@
-<img width="1392" height="912" alt="image" src="https://github.com/user-attachments/assets/96e5caad-369f-4400-8e6a-f6cee9797c12" />なるちゃん(naruchan) from なるこStudio(naruko studio)  
+なるちゃん(naruchan) from なるこStudio(naruko studio)  
 よろしくお願いします
 
 ## Hi there 👋
