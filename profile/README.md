@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 Current WIP:
-- [Discord-Typed](https://github.com/naruko-studio/discord-typed): A discord bot framework written in typescript with c12 configuration helper, dotenvx environment vault, radix3 for auto registration command and event to bot instance, ofetch to registration application command to discord.
+- [Discord-Typed](https://github.com/discord-typed/discord-typed): A discord bot framework written in typescript with c12 configuration helper, dotenvx environment vault, radix3 for auto registration command and event to bot instance, ofetch to registration application command to discord.
 - [teishoku](https://github.com/teishoku-js/teishoku): A full stack framework with c12 configuration helper, dotenvx environment vault, radix3 for auto registration site and api path, bun server, vue and react as frontend.
 - [Caddy-Helper](https://github.com/naruko-studio/caddy-helper): A tool inspired by nginx-proxy-manager, use to set caddy as reverse proxy conveniently.
 - Hyper-EL(Current in local only): A hypervisor platform like proxmox ve, but is based on enterprise linux based system, and add freeipa as sso to manage Caddy-Helper(as plugin) and OpenWRT(as plugin).
